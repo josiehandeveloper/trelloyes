@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import list from './list'
-import '.App.css';
+import './App.css';
 import { render } from '@testing-library/react';
 
 
