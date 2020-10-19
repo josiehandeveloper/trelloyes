@@ -2,9 +2,10 @@
 
 exports[`Card component renders the UI as expected 1`] = `
 <div
-  className="card"
+  className="Card"
 >
   <button
+    onClick={[Function]}
     type="button"
   >
     delete
@@ -15,19 +16,5 @@ exports[`Card component renders the UI as expected 1`] = `
   <p>
     content
   </p>
-</div>
-`;
-
-exports[`renders the UI as expected 1`] = `
-<div
-  className="card"
->
-  <button
-    type="button"
-  >
-    delete
-  </button>
-  <h3 />
-  <p />
 </div>
 `;
